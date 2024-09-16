@@ -1,0 +1,97 @@
+body{
+	background-color: #E1F6F2;
+	font-family: cursive;
+
+
+	
+
+}
+.Background{
+	background-color: #51829b;
+	margin-left: auto;
+	margin-right: auto;
+	width:75%;
+	
+}
+.Heading{
+	background-color: #f8f6f4;
+	max-width: 500px;
+  	margin: auto;
+  	font-size: 30px;
+	font-family: ;
+}
+.tag{
+	color: #e1b86e;
+	font-size: 30px;
+	font-family: cursive;
+	text-align: center;
+}
+h1 {text-align: center;
+	font-family:  Georgia, serif;
+}
+
+.containerlink{
+	background-color: lightblue;
+	width: 100%;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius: 12px;
+
+
+}
+
+	
+
+
+.link button{
+	display: inline-flex;
+	
+	font-size: 50px;
+	max-width: 500px;
+  	margin: 20px;
+	
+	border-left: black;
+	border-top: black;
+	border-radius: 12px;
+	border-width: 7px;
+
+}
+.btn1{
+	background-color: #ff6961;
+
+}
+.link li{
+	display:flex;
+	font-family: cursive;
+	
+
+}
+a{
+	text-decoration: none;
+	color: black;
+
+}
+.container{
+	background-color: #e1b86e;
+	font-size: 50px;
+	text-align: center;
+	
+
+}
+
+.Myimages{
+	border-radius: 50%;
+	
+}
+
+.school1{
+	display:inline-block;
+	margin-left: 20px;
+}
+.line{
+	margin:20px auto;
+	border-color: black;
+}
+.personalinfo{
+	text-align: left;
+}
